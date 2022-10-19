@@ -10,8 +10,10 @@
 - 💬 Ask me about... Whatever you want :D,
 
 **Social Media:**
+
 [![GitHub](icons/github.png)](https://github.com/MOHAMED19OS)
 
 **Learning:**
+
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 
